@@ -1,0 +1,13 @@
+node_modules
+apps/api/node_modules
+apps/web/node_modules
+packages/*/node_modules
+apps/api/dist
+apps/web/dist
+packages/*/dist
+coverage
+docker
+.git
+.DS_Store
+*.log
+.ledgerread-runtime
