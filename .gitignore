@@ -6,4 +6,4 @@ coverage
 apps/web/dist
 apps/api/dist
 postgres-data
-
+.ledgerread-runtime
